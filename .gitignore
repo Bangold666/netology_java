@@ -47,3 +47,4 @@ bin/
 .settings
 .springBeans
 .sts4-cache
+.idea

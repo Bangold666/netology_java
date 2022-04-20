@@ -48,3 +48,5 @@ bin/
 .springBeans
 .sts4-cache
 .idea
+out
+
